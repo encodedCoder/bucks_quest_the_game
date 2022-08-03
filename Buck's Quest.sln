@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A80C0D5-CDCA-1483-9C91-2632B434721C}") = "Buck's Quest", "Assembly-CSharp.csproj", "{0647DC93-6BBC-71BF-D3DF-B5A5C330A4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0647DC93-6BBC-71BF-D3DF-B5A5C330A4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0647DC93-6BBC-71BF-D3DF-B5A5C330A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0647DC93-6BBC-71BF-D3DF-B5A5C330A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0647DC93-6BBC-71BF-D3DF-B5A5C330A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
